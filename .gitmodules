@@ -1,0 +1,6 @@
+[submodule "cppcheck"]
+	path = cppcheck
+	url = https://github.com/Qful/check-action.git
+[submodule "cmake"]
+	path = cmake
+	url = https://github.com/Qful/cmake-action.git
